@@ -1,4 +1,4 @@
-package com.paypal.ewallet.git init.service;
+package com.paypal.ewallet.transaction.service;
 
 public interface TransactionService {
 }
